@@ -1,0 +1,15 @@
+E:\promact\c#\Project\src\Assignment_Asynchronous\bin\Debug\net6.0\Assignment_Asynchronous.exe
+E:\promact\c#\Project\src\Assignment_Asynchronous\bin\Debug\net6.0\Assignment_Asynchronous.deps.json
+E:\promact\c#\Project\src\Assignment_Asynchronous\bin\Debug\net6.0\Assignment_Asynchronous.runtimeconfig.json
+E:\promact\c#\Project\src\Assignment_Asynchronous\bin\Debug\net6.0\Assignment_Asynchronous.dll
+E:\promact\c#\Project\src\Assignment_Asynchronous\bin\Debug\net6.0\Assignment_Asynchronous.pdb
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.csproj.AssemblyReference.cache
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.AssemblyInfoInputs.cache
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.AssemblyInfo.cs
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.csproj.CoreCompileInputs.cache
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.dll
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\refint\Assignment_Asynchronous.dll
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.pdb
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\Assignment_Asynchronous.genruntimeconfig.cache
+E:\promact\c#\Project\src\Assignment_Asynchronous\obj\Debug\net6.0\ref\Assignment_Asynchronous.dll
